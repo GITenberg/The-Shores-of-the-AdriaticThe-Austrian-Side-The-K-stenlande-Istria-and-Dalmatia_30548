@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34444'
     url: http://www.gutenberg.org/2009/agents/34444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30548#The-Shores-of-the-AdriaticThe-Austrian-Side-The-K-stenlande-Istria-and-Dalmatia
 gutenberg_issued: '2009-11-26'
 gutenberg_type: Text
 identifiers:
