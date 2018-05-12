@@ -1,0 +1,36 @@
+_repo: The-Shores-of-the-AdriaticThe-Austrian-Side-The-K-stenlande-Istria-and-Dalmatia_30548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, F. Hamilton (Frederick Hamilton)
+    alias: Jackson, Frederick Hamilton
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '34444'
+    url: http://www.gutenberg.org/2009/agents/34444
+description: ''
+gutenberg_issued: '2009-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30548'
+  lccn: 09035521
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Istria (Croatia and Slovenia) -- Description and travel'
+- !lcsh 'Art -- Istria (Croatia and Slovenia)'
+- !lcsh 'Adriatic Sea'
+- !lcsh 'Dalmatia (Croatia) -- Description and travel'
+- !lcsh 'Art -- Croatia -- Dalmatia'
+- !lcsh 'Architecture -- Istria (Croatia and Slovenia)'
+- !lcc 'N'
+- !lcsh 'Architecture -- Croatia -- Dalmatia'
+title: 'The Shores of the Adriatic
+
+  The Austrian Side, The Küstenlande, Istria, and Dalmatia'
+url: http://www.gutenberg.org/ebooks/30548
